@@ -1,0 +1,1 @@
+web: gunicorn momdad_forum.wsgi
